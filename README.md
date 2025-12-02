@@ -12,7 +12,7 @@ Include/
 - raw1label.csv
 - Label/
   - Directory used to store labeled/segmented files.
-  - Contains a `DONE/` subdirectory in the repository — likely used to mark completed outputs or to store finished label files.
+  - Contains a `DONE/` subdirectory in the repository store finished label files.
   - DONE/
  
   
